@@ -38,24 +38,24 @@ If you're looking for help with our product or service, you're in the right plac
 This support policy outlines the support services provided to users of PowerBI.tips Designer. Our goal is to ensure a positive user experience and to assist users in resolving any issues they may encounter.
 
 2. Support Hours
-- **Support Availability**: Our support team is available during United States standard business hours Monday to Friday, 10 AM to 3 PM (CST)].
+  - **Support Availability**: Our support team is available during United States standard business hours Monday to Friday, 10 AM to 3 PM (CST)].
 
 3. Support Scope
 Our support covers:
-- Technical issues related to the web application.
-- Account management inquiries.
-- General questions about features and functionalities.
+  - Technical issues related to the web application.
+  - Account management inquiries.
+  - General questions about features and functionalities.
 
 4. Exclusions
 Support does not cover:
-- Issues related to third-party applications or services.
-- Custom development requests.
-- User training or onboarding.
+  - Issues related to third-party applications or services.
+  - Custom development requests.
+  - User training or onboarding.
 
 5. User Responsibilities
 Users are encouraged to:
-- Provide detailed information about the issue encountered.
-- Check our [issues page](github.com/PowerBI-tips/tools/issues) for common issues before reaching out.
+  - Provide detailed information about the issue encountered.
+  - Check our [issues page](github.com/PowerBI-tips/tools/issues) for common issues before reaching out.
 
 6. Feedback
 We welcome user feedback to improve our services. Users can submit feedback through our [issues page](github.com/PowerBI-tips/tools/issues) or directly via the support email.
