@@ -31,3 +31,5 @@ If you're looking for help with our product or service, you're in the right plac
 
 * [support@powerbi.tips](mailto:support@powerbi.tips)
 * [github.com/PowerBI-tips/tools/issues](github.com/PowerBI-tips/tools/issues)
+
+### Support Policy:
