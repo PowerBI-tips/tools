@@ -41,7 +41,7 @@ This support policy outlines the support services provided to users of PowerBI.t
   - **Support Availability**: Our support team is available during United States standard business hours Monday to Friday, 10 AM to 3 PM (CST)].
 
 ## 3. Support Scope
-Our support covers
+Our support covers:
   - Technical issues related to the web application.
   - Account management inquiries.
   - General questions about features and functionalities.
@@ -60,7 +60,7 @@ Users are encouraged to:
 ## 6. Feedback
 We welcome user feedback to improve our services. Users can submit feedback through our [issues page](github.com/PowerBI-tips/tools/issues) or directly via the support email.
 
-7. Policy Updates
+## 7. Policy Updates
 This support policy may be updated periodically.
 
 
