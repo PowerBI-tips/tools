@@ -1,5 +1,7 @@
 **Getting Help**
 ===============
+Support page for PowerBI.tips Designer Workloads and [https://tools.powerbi.tips/](https://tools.powerbi.tips/)
+
 Welcome to the PowerBI Tips support page! We're here to help you get the most out of our tools and services. Whether you're a new user or a seasoned pro, we're committed to providing you with the assistance you need to succeed.
 
 If you're looking for help with our product or service, you're in the right place. Our support team is dedicated to responding to your questions and resolving any issues you may be experiencing. We're available to help you via the following channels:
