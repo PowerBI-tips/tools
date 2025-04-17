@@ -12,7 +12,7 @@ If you're looking for help with our product or service, you're in the right plac
 
 # Issue Tracking
 
-* If your issue is related to a specific feature or bug, please create a new issue ticket on our GitHub repository: [github.com/PowerBI-tips/tools/issues](github.com/PowerBI-tips/tools/issues)
+* If your issue is related to a specific feature or bug, please create a new issue ticket on our GitHub repository: [github.com/PowerBI-tips/tools/issues](http://github.com/PowerBI-tips/tools/issues)
 * Please provide as much detail as possible, including any error messages or screenshots that may help us understand the issue better.
 * Our team will review and respond to your issue ticket promptly.
 
@@ -32,7 +32,7 @@ If you're looking for help with our product or service, you're in the right plac
 ----------------------
 
 * [support@powerbi.tips](mailto:support@powerbi.tips)
-* [github.com/PowerBI-tips/tools/issues](github.com/PowerBI-tips/tools/issues)
+* [github.com/PowerBI-tips/tools/issues](http://github.com/PowerBI-tips/tools/issues)
 
 # Support Policy for PowerBI.tips Designer
 
@@ -57,10 +57,10 @@ Support does not cover:
 ## 5. User Responsibilities
 Users are encouraged to:
   - Provide detailed information about the issue encountered.
-  - Check our [issues page](github.com/PowerBI-tips/tools/issues) for common issues before reaching out.
+  - Check our [issues page](http://github.com/PowerBI-tips/tools/issues) for common issues before reaching out.
 
 ## 6. Feedback
-We welcome user feedback to improve our services. Users can submit feedback through our [issues page](github.com/PowerBI-tips/tools/issues) or directly via the support email.
+We welcome user feedback to improve our services. Users can submit feedback through our [issues page](http://github.com/PowerBI-tips/tools/issues) or directly via the support email.
 
 ## 7. Policy Updates
 This support policy may be updated periodically.
