@@ -4,6 +4,10 @@ _Support for the Power Designer workload in Microsoft Fabric and PowerBI.tips to
 
 Welcome to the PowerBI.tips support page! We're dedicated to helping you get the most out of our tools and services. Our support team is ready to assist with your questions and resolve any issues you may encounter through the following channels:
 
+## Fabric Workload Compliance Attestation
+
+Workload Development Kit requirements documentation for data usage within the workload [Fabric Attestation Link](https://themes.powerbi.tips/themes/about)
+
 ## Support Channels
 
 ### Email Support
